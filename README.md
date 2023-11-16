@@ -31,7 +31,7 @@
                     <a class="topmenu" href="#about-me">  Acerca de mí </a>
                     <a class="topmenu" href="#skills"> Conosimientos </a>
                     <a class="topmenu" href="#projects"> Proyectos </a>
-                    <a class="topmenu" href="#recommendations"> Recomendaciones </a>
+                    <a class="topmenu" href="#recommendation"> Recomendaciones </a>
 
                 </div>
             </div>    
